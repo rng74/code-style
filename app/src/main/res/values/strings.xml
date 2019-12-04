@@ -1,0 +1,10 @@
+<resources>
+    <string name="profile_fragment">Профиль</string>
+    <string name="catalog_fragment">Каталог</string>
+    <string name="search_fragment">Поиск</string>
+    <string name="label_recommended">Рекомендуемые</string>
+    <string name="label_popular">Популярные</string>
+    <string name="duration_minute">%1$s минут</string>
+    <string name="duration_hour">%1$s час</string>
+    <string name="service_list">Список услуг</string>
+</resources>
